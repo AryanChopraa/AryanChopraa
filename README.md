@@ -56,7 +56,7 @@ I'm a passionate Fullstack Developer with over 2 years of experience, specializi
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanChopraa&show_icons=true&theme=radical)](https://github.com/AryanChopraa)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanChopraa&layout=compact&theme=radical)](https://github.com/AryanChopraa)
 
