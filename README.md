@@ -53,6 +53,7 @@ I'm a passionate Fullstack Developer with over 2 years of experience, specializi
 - Scaling web applications for high performance
 - Building advanced AI applications
 - Cloud-native architectures and microservices
+  
 
 ## 📊 GitHub Stats
 
@@ -62,6 +63,13 @@ I'm a passionate Fullstack Developer with over 2 years of experience, specializi
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanChopraa&theme=radical)](https://github.com/AryanChopraa)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AryanChopraa/AryanChopraa/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ⭐️ From [Aryan Chopra](https://github.com/AryanChopraa)
